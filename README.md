@@ -1,3 +1,7 @@
+calculadora-c
+ ├── main.c
+ └── README.md
+
 #include <stdio.h>
 
 int main() {
